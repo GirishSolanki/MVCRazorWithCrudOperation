@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V2Pfd41CfN1nbfgoItn9BLWqi5oj0CimA4LSlDLlIig=",
+  "Source": "ACMESOFT.Api",
+  "BasePath": "_content/ACMESOFT.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+E:\Projects\ACMESOFT\ACMESOFT.Common\bin\Debug\net6.0\ACMESOFT.Common.deps.json
+E:\Projects\ACMESOFT\ACMESOFT.Common\bin\Debug\net6.0\ACMESOFT.Common.dll
+E:\Projects\ACMESOFT\ACMESOFT.Common\bin\Debug\net6.0\ACMESOFT.Common.pdb
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\ACMESOFT.Common.csproj.AssemblyReference.cache
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\ACMESOFT.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\ACMESOFT.Common.AssemblyInfoInputs.cache
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\ACMESOFT.Common.AssemblyInfo.cs
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\ACMESOFT.Common.csproj.CoreCompileInputs.cache
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\ACMESOFT.Common.dll
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\refint\ACMESOFT.Common.dll
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\ACMESOFT.Common.pdb
+E:\Projects\ACMESOFT\ACMESOFT.Common\obj\Debug\net6.0\ref\ACMESOFT.Common.dll

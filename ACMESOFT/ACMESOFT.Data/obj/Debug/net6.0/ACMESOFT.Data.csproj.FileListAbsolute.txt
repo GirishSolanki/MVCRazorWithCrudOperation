@@ -1,0 +1,17 @@
+E:\Projects\ACMESOFT\ACMESOFT.Data\bin\Debug\net6.0\ACMESOFT.Data.deps.json
+E:\Projects\ACMESOFT\ACMESOFT.Data\bin\Debug\net6.0\ACMESOFT.Data.dll
+E:\Projects\ACMESOFT\ACMESOFT.Data\bin\Debug\net6.0\ACMESOFT.Data.pdb
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.csproj.AssemblyReference.cache
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.AssemblyInfoInputs.cache
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.AssemblyInfo.cs
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.csproj.CoreCompileInputs.cache
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.dll
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\refint\ACMESOFT.Data.dll
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.pdb
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ref\ACMESOFT.Data.dll
+E:\Projects\ACMESOFT\ACMESOFT.Data\bin\Debug\net6.0\ACMESOFT.Data.runtimeconfig.json
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.genruntimeconfig.cache
+E:\Projects\ACMESOFT\ACMESOFT.Data\bin\Debug\net6.0\ACMESOFT.Entity.dll
+E:\Projects\ACMESOFT\ACMESOFT.Data\bin\Debug\net6.0\ACMESOFT.Entity.pdb
+E:\Projects\ACMESOFT\ACMESOFT.Data\obj\Debug\net6.0\ACMESOFT.Data.csproj.CopyComplete

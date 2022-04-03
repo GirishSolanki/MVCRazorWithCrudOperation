@@ -1,0 +1,15 @@
+E:\Projects\ACMESOFT\ACMESOFT.IService\bin\Debug\net6.0\ACMESOFT.IService.deps.json
+E:\Projects\ACMESOFT\ACMESOFT.IService\bin\Debug\net6.0\ACMESOFT.IService.dll
+E:\Projects\ACMESOFT\ACMESOFT.IService\bin\Debug\net6.0\ACMESOFT.IService.pdb
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ACMESOFT.IService.csproj.AssemblyReference.cache
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ACMESOFT.IService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ACMESOFT.IService.AssemblyInfoInputs.cache
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ACMESOFT.IService.AssemblyInfo.cs
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ACMESOFT.IService.csproj.CoreCompileInputs.cache
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ACMESOFT.IService.dll
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\refint\ACMESOFT.IService.dll
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ACMESOFT.IService.pdb
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ref\ACMESOFT.IService.dll
+E:\Projects\ACMESOFT\ACMESOFT.IService\bin\Debug\net6.0\ACMESOFT.Entity.dll
+E:\Projects\ACMESOFT\ACMESOFT.IService\bin\Debug\net6.0\ACMESOFT.Entity.pdb
+E:\Projects\ACMESOFT\ACMESOFT.IService\obj\Debug\net6.0\ACMESOFT.IService.csproj.CopyComplete

@@ -1,0 +1,12 @@
+E:\Projects\ACMESOFT\ACMESOFT.Entity\bin\Debug\net6.0\ACMESOFT.Entity.deps.json
+E:\Projects\ACMESOFT\ACMESOFT.Entity\bin\Debug\net6.0\ACMESOFT.Entity.dll
+E:\Projects\ACMESOFT\ACMESOFT.Entity\bin\Debug\net6.0\ACMESOFT.Entity.pdb
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\ACMESOFT.Entity.csproj.AssemblyReference.cache
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\ACMESOFT.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\ACMESOFT.Entity.AssemblyInfoInputs.cache
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\ACMESOFT.Entity.AssemblyInfo.cs
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\ACMESOFT.Entity.csproj.CoreCompileInputs.cache
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\ACMESOFT.Entity.dll
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\refint\ACMESOFT.Entity.dll
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\ACMESOFT.Entity.pdb
+E:\Projects\ACMESOFT\ACMESOFT.Entity\obj\Debug\net6.0\ref\ACMESOFT.Entity.dll

@@ -1,0 +1,47 @@
+﻿@model ACMESOFT.Entity.Person
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form asp-action="Person" method="post">
+
+    <input type="hidden" asp-for="Employee.EmployeeId" />
+    <input type="hidden" asp-for="PersonId" />
+    <input type="hidden" asp-for="Employee.PersonId" />
+    <div class="form-group">
+        <label for="email">First Name:</label>
+        <input type="text" maxlength="128" class="form-control" asp-for="FirstName">
+    </div>
+    <div class="form-group">
+        <label for="pwd">Last Name:</label>
+        <input type="text" maxlength="128" class="form-control" asp-for="LastName">
+    </div>
+    <div class="form-group">
+        <label for="pwd">Date Of Birth:</label>
+        <input type="date" class="form-control" asp-for="BirthDate" required>
+    </div>
+    <div class="form-group">
+        <label for="pwd">Employee Number:</label>
+        <input type="text" maxlength="16" required class="form-control" asp-for="Employee.EmployeeNumber">
+    </div>
+    <div class="form-group">
+        <label for="pwd">Employee Date:</label>
+        <input type="date" class="form-control" required asp-for="Employee.EmployeeDate">
+    </div>
+    <div class="form-group">
+        <label for="pwd">Termination Date:</label>
+        <input type="date" class="form-control" asp-for="Employee.TerminationDate">
+    </div>
+    <button type="submit" class="btn btn-primary" id="btnSubmitPerson">Submit</button>
+</form>
+
+<script>
+    jQuery(document).ready(function() {
+          if('@ViewData["IsSaved"]' == "1"){
+          alert("Person Saved Successfully.", window.location.href="/Person/PersonList");
+            }
+    });
+</script>

@@ -1,0 +1,13 @@
+﻿@page
+@model ACMESOFT.Web.Pages.Person.PersonModel
+@{
+}
+ @Html.AntiForgeryToken()
+<input type="hidden" asp-for="Person.Employee.EmployeeId" />
+<input type="hidden" asp-for="Person.PersonId" />
+<input type="hidden" asp-for="Person.Employee.PersonId" />
+<partial name="Person/_PartialPerson" model="@Model.Person" />
+
+
+@*<script src="~/js/Person.js asp-append-version="true"></script>*@
+

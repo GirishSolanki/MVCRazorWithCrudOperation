@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ACMESOFT.IService/1.0.0": {
+        "dependencies": {
+          "ACMESOFT.Entity": "1.0.0"
+        },
+        "runtime": {
+          "ACMESOFT.IService.dll": {}
+        }
+      },
+      "ACMESOFT.Entity/1.0.0": {
+        "runtime": {
+          "ACMESOFT.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACMESOFT.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ACMESOFT.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

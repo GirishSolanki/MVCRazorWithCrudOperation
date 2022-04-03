@@ -1,0 +1,6 @@
+﻿@page
+@model ACMESOFT.Web.Pages.Person.PersonListModel
+@{
+}
+ @Html.AntiForgeryToken()
+<partial name="Person/_PersonList" model="@Model.PersonList" />

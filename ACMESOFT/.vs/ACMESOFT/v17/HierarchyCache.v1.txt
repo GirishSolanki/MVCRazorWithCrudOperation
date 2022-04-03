@@ -1,0 +1,426 @@
+﻿++Solution 'ACMESOFT' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:ACMESOFT.sln
+++ACMESOFT.Api
+i:{00000000-0000-0000-0000-000000000000}:ACMESOFT.Api
+++Connected Services 
+i:{d8390e41-a88f-441f-bab0-095da4041926}:>1413
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:>1411
+++Dependencies
+i:{d8390e41-a88f-441f-bab0-095da4041926}:>1410
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:>903
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:>618
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:>617
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:>710
+i:{07ac2701-c594-4a26-a848-291857770f4b}:>619
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:>1409
+++Properties
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\properties\
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\properties\
+++Controllers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\controllers\
+++AcmeSoftApiController.cs
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\controllers\acmesoftapicontroller.cs
+++WeatherForecastController.cs
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\controllers\weatherforecastcontroller.cs
+++appsettings.json
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\appsettings.json
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\appsettings.json
+++Program.cs
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\program.cs
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\program.cs
+++WeatherForecast.cs
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\weatherforecast.cs
+++No service dependencies discovered
+i:{d8390e41-a88f-441f-bab0-095da4041926}:>1414
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:>1412
+++Analyzers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:analyzers
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:analyzers
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:analyzers
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:analyzers
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:analyzers
+i:{07ac2701-c594-4a26-a848-291857770f4b}:analyzers
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:analyzers
+++Frameworks
+i:{d8390e41-a88f-441f-bab0-095da4041926}:frameworks
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:frameworks
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:frameworks
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:frameworks
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:frameworks
+i:{07ac2701-c594-4a26-a848-291857770f4b}:frameworks
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:frameworks
+++Packages
+i:{d8390e41-a88f-441f-bab0-095da4041926}:packages
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:packages
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:packages
+++Projects
+i:{d8390e41-a88f-441f-bab0-095da4041926}:projects
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:projects
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:projects
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:projects
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:projects
+++launchSettings.json
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\properties\launchsettings.json
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\properties\launchsettings.json
+++appsettings.Development.json
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\appsettings.development.json
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{07ac2701-c594-4a26-a848-291857770f4b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{07ac2701-c594-4a26-a848-291857770f4b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\users\maurya\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:c:\users\maurya\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:c:\users\maurya\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:c:\users\maurya\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:c:\users\maurya\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{d8390e41-a88f-441f-bab0-095da4041926}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{07ac2701-c594-4a26-a848-291857770f4b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\microsoft.aspnetcore.app
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.api\microsoft.netcore.app
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:e:\projects\acmesoft\acmesoft.common\microsoft.netcore.app
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:e:\projects\acmesoft\acmesoft.service\microsoft.netcore.app
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:e:\projects\acmesoft\acmesoft.iservice\microsoft.netcore.app
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\microsoft.netcore.app
+i:{07ac2701-c594-4a26-a848-291857770f4b}:e:\projects\acmesoft\acmesoft.entity\microsoft.netcore.app
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.3)
+i:{d8390e41-a88f-441f-bab0-095da4041926}:>1432
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:>1480
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{d8390e41-a88f-441f-bab0-095da4041926}:>1434
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:>1482
+++Swashbuckle.AspNetCore (6.2.3)
+i:{d8390e41-a88f-441f-bab0-095da4041926}:>1433
+++ACMESOFT.Common
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.common\acmesoft.common.csproj
+i:{00000000-0000-0000-0000-000000000000}:ACMESOFT.Common
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.common\acmesoft.common.csproj
+++ACMESOFT.Data
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.data\acmesoft.data.csproj
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:e:\projects\acmesoft\acmesoft.data\bin\debug\net6.0\acmesoft.data.dll
+i:{00000000-0000-0000-0000-000000000000}:ACMESOFT.Data
+++ACMESOFT.Entity
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.entity\acmesoft.entity.csproj
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:e:\projects\acmesoft\acmesoft.entity\bin\debug\net6.0\acmesoft.entity.dll
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:e:\projects\acmesoft\acmesoft.entity\acmesoft.entity.csproj
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.entity\bin\debug\net6.0\acmesoft.entity.dll
+i:{00000000-0000-0000-0000-000000000000}:ACMESOFT.Entity
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.entity\acmesoft.entity.csproj
+++ACMESOFT.IService
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.iservice\acmesoft.iservice.csproj
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:e:\projects\acmesoft\acmesoft.iservice\bin\debug\net6.0\acmesoft.iservice.dll
+i:{00000000-0000-0000-0000-000000000000}:ACMESOFT.IService
+++ACMESOFT.Service
+i:{d8390e41-a88f-441f-bab0-095da4041926}:e:\projects\acmesoft\acmesoft.service\acmesoft.service.csproj
+i:{00000000-0000-0000-0000-000000000000}:ACMESOFT.Service
+++GenericResponse.cs
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:e:\projects\acmesoft\acmesoft.common\genericresponse.cs
+++WebApi.cs
+i:{e95bafd5-b8ee-40c4-a4d6-b8356e13d619}:e:\projects\acmesoft\acmesoft.common\webapi.cs
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\common\webapi.cs
+++AcmesoftServices.cs
+i:{b365b9ae-8d62-4a16-8882-9943210ff1e0}:e:\projects\acmesoft\acmesoft.service\acmesoftservices.cs
+++IAcmesoftServices.cs
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:e:\projects\acmesoft\acmesoft.iservice\iacmesoftservices.cs
+++IServices.cs
+i:{4c3db77d-087d-4344-912d-bc3fe2103fb0}:e:\projects\acmesoft\acmesoft.iservice\iservices.cs
+++Migrations
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\
+++AcmesoftDataContext.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\acmesoftdatacontext.cs
+++20220330180429_InitialSetup.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\20220330180429_initialsetup.cs
+++20220330203538_schemaupdate.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\20220330203538_schemaupdate.cs
+++20220331123422_dbNullValueSet.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\20220331123422_dbnullvalueset.cs
+++20220331134041_IsDeletedColumnAdded.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\20220331134041_isdeletedcolumnadded.cs
+++AcmesoftDataContextModelSnapshot.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\acmesoftdatacontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:>1478
+++Microsoft.EntityFrameworkCore.Relational (6.0.3)
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:>1481
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:>1479
+++20220330180429_InitialSetup.Designer.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\20220330180429_initialsetup.designer.cs
+++20220330203538_schemaupdate.Designer.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\20220330203538_schemaupdate.designer.cs
+++20220331123422_dbNullValueSet.Designer.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\20220331123422_dbnullvalueset.designer.cs
+++20220331134041_IsDeletedColumnAdded.Designer.cs
+i:{5d23c141-b4b4-4331-9724-012bc3231201}:e:\projects\acmesoft\acmesoft.data\migrations\20220331134041_isdeletedcolumnadded.designer.cs
+++ViewModel
+i:{07ac2701-c594-4a26-a848-291857770f4b}:e:\projects\acmesoft\acmesoft.entity\viewmodel\
+++Employee.cs
+i:{07ac2701-c594-4a26-a848-291857770f4b}:e:\projects\acmesoft\acmesoft.entity\employee.cs
+++Person.cs
+i:{07ac2701-c594-4a26-a848-291857770f4b}:e:\projects\acmesoft\acmesoft.entity\person.cs
+++ACMESOFT.Web
+i:{00000000-0000-0000-0000-000000000000}:ACMESOFT.Web
+++wwwroot
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\
+++css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\css\
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\js\
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\
+++Person.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\js\person.js
+++site.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\js\site.js
+++lib
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\
+++bootstrap
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\
+++dist
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery\dist\
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\license
+++jquery
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery\
+++jquery.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery\dist\jquery.js
+++LICENSE.txt
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery\license.txt
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++jquery-validation
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\favicon.ico
+++Common
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\common\
+++Pages
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\
+++Person
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\person\
+++_PartialPerson.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\person\_partialperson.cshtml
+++_PersonList.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\person\_personlist.cshtml
+++Person.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\person\person.cshtml
+++Person.cshtml.cs
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\person\person.cshtml.cs
+++Shared
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\shared\
+++_Layout.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\_viewstart.cshtml
+++Error.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\error.cshtml
+++Index.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\index.cshtml
+++Privacy.cshtml
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\privacy.cshtml
+++site.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\css\site.css
+++jquery.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery\dist\jquery.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\jquery.min.js
+++LICENSE.md
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\shared\_layout.cshtml.css
+++Error.cshtml.cs
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\pages\privacy.cshtml.cs
+++MessagePackAnalyzer
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\users\maurya\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\users\maurya\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:c:\users\maurya\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:>1451
+++RestSharp (107.3.0)
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:>1535
+++bootstrap.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\bootstrap.min.css
+++bootstrap.rtl.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\bootstrap.min.js
+++additional-methods.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.min.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++NewFolder
+++downloaded
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\
+++bootstrap3.3.7.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\bootstrap3.3.7.min.css
+++dataTables.bootstrap.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\datatables.bootstrap.min.css
+++dataTables.bootstrap.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\datatables.bootstrap.min.js
+++dataTables.responsive.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\datatables.responsive.min.js
+++jquery.dataTables.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\jquery.datatables.min.js
+++jquery-1.11.1.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\jquery-1.11.1.min.js
+++jquery-1.12.4.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\jquery-1.12.4.js
+++jquery1.9.1.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\jquery1.9.1.min.js
+++responsive.bootstrap.min.css
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\responsive.bootstrap.min.css
+++responsive.bootstrap.min.js
+i:{10b2de0d-8615-4a5d-ba49-1f28cf450fea}:e:\projects\acmesoft\acmesoft.web\wwwroot\lib\downloaded\responsive.bootstrap.min.js
